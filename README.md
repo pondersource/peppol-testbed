@@ -1,2 +1,2 @@
-# peppol-testbed
-A testbed for Peppol implementations
+# peppol-testsuite
+A testsuite for Peppol implementations
